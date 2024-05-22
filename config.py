@@ -1,0 +1,3 @@
+SHOPIFY_STORE_URL = "epilogue-test.myshopify.com"
+SHOPIFY_API_VERSION = "2024-01"
+SHOPIFY_ACCESS_TOKEN = "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"
